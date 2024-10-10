@@ -1,3 +1,6 @@
+% Samuel Marín Soto
+% 2023073212
+% Paradigmas 2024
 
 % Ejercicio 2.1
 progenitor(jaime, patricia)
